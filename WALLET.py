@@ -206,4 +206,4 @@ if answer == "11":
         'err-code': "0"
     })
 
-#Incase of any questions or suggestions feel free to contact me
+#In case of any questions or suggestions feel free to contact me
